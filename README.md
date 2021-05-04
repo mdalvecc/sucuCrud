@@ -15,6 +15,6 @@ Otra cosa que no armé fue una api rest por el mismo tema del tiempo pero se pue
 Como decía, hay 2 ejecutables
 
 A. Para ejecutar el cálculo de distancia con un conjunto predefinido de datos, ejecutar el método main de la clase DistanciaSucu.kt
-Lo pueden ejecutar con el idea, pasándole parámetros de <latitud> <longitud> [<cantidadResultados>]
+Lo pueden ejecutar con el idea, pasándole parámetros de \<latitud\> \<longitud\> [\<cantidadResultados\>]
 
 B. Para ejecutar los tests, tienen que ejecutar el método main de la clase Tests.kt
